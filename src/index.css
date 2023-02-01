@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    font-family: system-ui;
+}
+
+body * {
+    box-sizing: border-box;
+}
+
+:root {
+    --light-gray: #eee;
+    --gray: #979797;
+    --dark: #3B3B3B
+}
